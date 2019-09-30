@@ -13,6 +13,8 @@ namespace GitTest
 			//This comment was added at the Develop branch
 
 			//Second comment was added at the Develop branch
+
+			// Here we're working on super feature No 1
 		}
 	}
 }
