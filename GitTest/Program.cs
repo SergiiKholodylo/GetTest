@@ -11,6 +11,8 @@ namespace GitTest
 		static void Main(string[] args)
 		{
 			//This comment was added at the Develop branch
+
+			//Second comment was added at the Develop branch
 		}
 	}
 }
